@@ -1,0 +1,36 @@
+<mockup version="1.0" skin="sketch" measuredW="507" measuredH="527" mockupW="472" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="25" y="7" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="58" y="133" w="-1" h="-1" measuredW="215" measuredH="136" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Thanksgiving%5CrNovember%2027%5C%2C%202009%2C%2012%20hours%20%28%3E%29%0AWDW%20December%202009%5CrDecember%201%5C%2C%202009%205%3A00%20AM%2C%204%20days%20%28%3E%29%0AChristmas%5CrDecember%2025%5C%2C%202009%2C%2028%20days%20%28%3E%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::MenuBar" x="83" y="400" w="-1" h="-1" measuredW="166" measuredH="29" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>List%2C%20+%2C%20Cfg%2C%20%3F</text>
+        <selectedIndex>0</selectedIndex>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="58" y="315" w="-1" h="-1" measuredW="215" measuredH="52" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Christmas%5CrDecember%2025%5C%2C%202009%2C%20330%20days%20ago%20%28%3E%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="58" y="110" w="216" h="23" measuredW="104" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Upcoming%20events</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="58" y="292" w="216" h="23" measuredW="76" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Past%20events</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::VCurly" x="313" y="393" w="184" h="42" measuredW="180" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No%20configuration%20options%20at%20first</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
